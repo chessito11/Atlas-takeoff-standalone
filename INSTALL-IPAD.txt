@@ -1,0 +1,21 @@
+ATLAS ESTIMATING — IPAD SETUP
+
+1. Put every file in this package into the SAME folder as:
+   index.html
+   app.js
+   style.css
+   quantities.js
+   door-sketch.js
+
+2. Deploy that folder over HTTPS (GitHub Pages works).
+
+3. On iPad Safari open:
+   ipad.html
+
+4. Share → Add to Home Screen.
+
+5. Open ATLAS from the new Home Screen icon once while online.
+
+6. After the first successful load, the core app can reopen offline.
+
+Landscape mode is recommended for drawings/details.
